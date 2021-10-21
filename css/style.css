@@ -1,0 +1,84 @@
+.bg-gray {
+	background-color: #B2BABB;
+	color: #000000;
+	width: 250px;
+	height: 40px;
+	text-align: center;
+	padding: 10px;
+	margin-left: 60px;
+}
+
+.bg-section {
+	background-color: #f8f8f2;
+}
+
+.bg-section3 {
+	background-color: #847b7b;
+}
+.test {
+	margin-left: 500px;
+}
+
+@media(max-width: 990px) {
+	.test {
+		margin-left: 0;
+	}
+}
+
+/*collection css*/
+.col1 button {
+    width: 60px;
+    background-color: yellow;
+    border-radius: 50%;
+    height: 60px;
+    border: none;
+    font-size: 22px;
+    font-weight: 700;
+}
+.col1 h4 {
+	color: #fff;
+	font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 28px;
+    margin-top: 15px;
+}
+.col1 p{
+	font-weight: 400;
+	font-size: 18px;
+	color: #fff;
+}
+.col1 {
+	margin-top: -200px;
+	margin-left: 30px;
+	border: 5px solid white;
+}
+.col1 .hh {
+ margin-top: 70px;
+}
+
+.borders {
+     padding-bottom: 300px;
+     border-color: #000;
+}
+
+.borders img {
+	padding-top: 15px;
+}
+.rows {
+	margin: 2px;
+}
+
+/*banner css*/
+.pp {
+	margin-top: -100px;
+	font-weight: 600;
+}
+
+/*free shipping area css*/
+.bg-yellow {
+	background-color: #ffb627;
+}
+.bg-footer {
+	background-color: #c4c4c4;
+}
